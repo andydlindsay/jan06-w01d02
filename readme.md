@@ -10,3 +10,8 @@ Write a node program that takes in an unlimited number of command line arguments
 - store the arguments
 - determine if the argument is a whole number
 - test for negative numbers
+
+## LSD
+- Logic: did I tell the computer to do the right thing?
+- Syntax: do I have a syntax error?
+- Data: do I have the data in a form/format that I expect?

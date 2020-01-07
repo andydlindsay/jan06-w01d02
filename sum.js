@@ -6,7 +6,7 @@
 [x] 5 determine if the argument is a whole number
 [ ] 6 test for negative numbers
 [x] 7 transform the arguments from strings to numbers
-[ ] 8 console.log the sum
+[x] 8 console.log the sum
  */
 
 // need to be able to read in unlimited number of cli arguments
